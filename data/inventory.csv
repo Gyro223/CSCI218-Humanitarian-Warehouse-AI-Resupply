@@ -1,0 +1,16 @@
+item_id,item_name,category,current_stock,min_stock,lead_time_days,shelf_life_days,unit_cost_usd
+ITEM01,Trauma Medical Kit,Health,120,300,5,180,45.0
+ITEM02,High-Energy Rations (BP-5),Food,1500,800,10,15,2.5
+ITEM03,Family Relief Tents (5-Person),Shelter,45,100,14,720,150.0
+ITEM04,Water Purification Tablets (10k pk),Sanitation,8000,2000,3,365,0.1
+ITEM05,Thermal Emergency Blankets,Shelter,1200,600,6,1095,4.5
+ITEM06,Surgical & Protective Gloves,Health,400,1000,4,25,1.25
+ITEM07,Family Hygiene Kits,Sanitation,250,500,7,365,12.0
+ITEM08,Portable Diesel Generators (5kW),Power,15,30,12,1825,550.0
+ITEM09,Cholera Treatment Kits,Health,80,200,5,90,120.0
+ITEM10,Ready-to-Use Therapeutic Food (Plumpy'Nut),Food,3000,1500,8,540,0.85
+ITEM11,Solar Powered LED Lanterns,Power,600,400,6,730,15.0
+ITEM12,Collapsible Water Jerricans (10L),Sanitation,2200,1000,4,1460,3.2
+ITEM13,Heavy-Duty Reinforced Tarpaulins,Shelter,350,800,7,1095,18.5
+ITEM14,Pediatric Antibiotic Packs,Health,180,400,6,20,8.0
+ITEM15,Inflatable Field Hospital Modules,Health,4,10,21,2555,12500.0
