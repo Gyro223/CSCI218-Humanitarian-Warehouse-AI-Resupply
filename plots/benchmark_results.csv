@@ -1,0 +1,9 @@
+Scenario,Model,Fill_Rate_Pct,Stockout_Events,Expired_Units,Redistributed_Units,Procurement_Cost_USD
+Routine (Lvl 2.0),Static Baseline,96.13,61,51,0,773724.35
+Routine (Lvl 2.0),Hybrid Fuzzy + Rule AI,96.09,62,0,622,773826.85
+Escalating (Lvl 5.5),Static Baseline,85.31,123,0,0,917207.85
+Escalating (Lvl 5.5),Hybrid Fuzzy + Rule AI,90.62,91,0,568,1123478.1
+Emergency (Lvl 9.0),Static Baseline,74.04,192,0,0,988331.9
+Emergency (Lvl 9.0),Hybrid Fuzzy + Rule AI,90.74,88,0,513,1685417.3
+Sudden Crisis Shock,Static Baseline,80.66,142,0,0,894337.9
+Sudden Crisis Shock,Hybrid Fuzzy + Rule AI,87.11,104,0,614,1405339.05
